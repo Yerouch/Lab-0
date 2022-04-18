@@ -1,0 +1,1 @@
+print("Коченов Егор Валерьевич\nyotakugawa@gmail.com")
